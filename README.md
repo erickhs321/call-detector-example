@@ -1,0 +1,2 @@
+- yarn or npm install
+- react-native run-android
