@@ -1,2 +1,3 @@
 - yarn or npm install
+- yarn start or npm start
 - react-native run-android
